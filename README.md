@@ -57,7 +57,7 @@ You can find the Github Repo here.
 [View More](https://demos.creative-tim.com/material-dashboard-react/#/dashboard).
 
 
-### My Build and Test locally
+### My Local Build & Test
 ```bash
 # clone the repository, then
 cd material-dashboard-react
