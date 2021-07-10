@@ -26,3 +26,8 @@ yarn-error.log*
 package-lock.json
 
 commit.sh
+
+.history
+0.*
+1.*
+

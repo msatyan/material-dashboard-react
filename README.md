@@ -57,6 +57,19 @@ You can find the Github Repo here.
 [View More](https://demos.creative-tim.com/material-dashboard-react/#/dashboard).
 
 
+### My Build and Test locally
+```bash
+# clone the repository, then
+cd material-dashboard-react
+
+# do the build
+rm -rf build
+npm run build > 0.log 2>&1
+
+# http://localhost:3000/material-dashboard-react
+npm run start
+```
+
 ## Quick start
 
 Quick start options:
